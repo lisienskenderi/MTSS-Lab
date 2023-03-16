@@ -1,3 +1,3 @@
 # LAB1
-nuova riga \n
+nuova riga
 seconda nuova riga
